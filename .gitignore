@@ -10,3 +10,5 @@ ipython_config.py
 
 big_cats
 *.pkl
+
+outputs/
